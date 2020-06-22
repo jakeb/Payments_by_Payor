@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Payments_by_Payor", "Payments_by_Payor\Payments_by_Payor.pyproj", "{F7C2F335-E9B7-4038-8B1A-1A53D9B399FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7C2F335-E9B7-4038-8B1A-1A53D9B399FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C2F335-E9B7-4038-8B1A-1A53D9B399FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37D91FB8-EE56-4394-AC9D-C2C36AF5BB54}
+	EndGlobalSection
+EndGlobal
